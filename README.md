@@ -1,4 +1,4 @@
-# jeopardy!
+# Jeopardy!
 <p>
   This is a project exploring <i>Jeopardy!</i> data for a dashboard competition at Nashville Software School. The best dashboard will be featured on the school website.
   <p>
